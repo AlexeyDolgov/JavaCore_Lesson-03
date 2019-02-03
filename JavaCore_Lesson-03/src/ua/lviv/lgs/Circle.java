@@ -33,12 +33,12 @@ public class Circle {
 
 	public void circleAreaConsole (double diameter) {
 		double area = (Math.PI * diameter * diameter) / 4;
-		System.out.println("Площадь круга = " + area);
+		System.out.println("РџР»РѕС‰Р°РґСЊ РєСЂСѓРіР° = " + area);
 	}
 	
 	public void circleLengthConsole (double radius) {
 		double length = Math.PI * radius * 2;
-		System.out.println("Длина круга = " + length);
+		System.out.println("Р”Р»РёРЅР° РєСЂСѓРіР° = " + length);
 	}
 	
 	@Override
